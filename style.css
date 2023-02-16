@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
 
 :root{
-    --left-bg-color: rgba(87, 84, 236, 0.7);
+    --left-bg-color: rgba(43, 43, 43, 0.7);
     --right-bg-color: rgba(43, 43, 43, 0.7);
-    --left-btn-hover-color: rgba(87, 84, 236, 1);
-    --right-btn-hover-color: rgba(28, 122, 20, 1);
+    --left-btn-hover-color: rgba(191, 95, 61);
+    --right-btn-hover-color: rgba(200, 57, 51, 255);
     --hover-width: 75%;
     --other-width: 25%;
     --speed: 1000ms;
@@ -15,7 +15,7 @@
 }
 
 body{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     display: flex;
     height: 100vh;
     overflow: hidden;
