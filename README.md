@@ -2,7 +2,7 @@
 
 <div align="center">
 <img  src="https://media.discordapp.net/attachments/893543990161461322/1078076189702369370/split-home.PNG?width=888&height=499">
-<h3>First View: A página principal apresenta os dois jogos da série Horizon, pela Guerrilla Games. Ao passar o mouse na área de interesse, a página era se expandir.</h3>
+<h3>First View: A página principal apresenta os dois jogos da série Horizon, pela Guerrilla Games. Ao passar o mouse na área de interesse, a página era se expandir e revelar fotos tiradas por mim 'in-game',</h3>
 </div>
 
 ##
