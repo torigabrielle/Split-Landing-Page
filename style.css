@@ -3,7 +3,7 @@
 :root{
     --left-bg-color: rgba(43, 43, 43, 0.7);
     --right-bg-color: rgba(43, 43, 43, 0.7);
-    --left-btn-hover-color: rgba(191, 95, 61);
+    --left-btn-hover-color: rgba(101, 122, 163);
     --right-btn-hover-color: rgba(200, 57, 51, 255);
     --hover-width: 75%;
     --other-width: 25%;
